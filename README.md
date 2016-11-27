@@ -10,7 +10,7 @@ We are an open source development group working on interesting projects that ser
 
 ## Upcoming Projects
 
-- OpenEMR Cloud (_A project that will demonstrate how a small facility or large hospital system can run their OpenEMR installation in the cloud via AWS Elastic Beanstalk, RDS, VPC, and other more essential services. AWS cloud will provide a performant, highly scalable, deeply secure, and cost-effective choice for many global OpenEMR users._)
+- OpenEMR Cloud (_A project that will demonstrate how a small facility or large hospital system can run their OpenEMR installation in the cloud via AWS Elastic Beanstalk, RDS, VPC, and other more essential services. AWS cloud will provide a performant, highly scalable, deeply secure, and cost-effective choice for many global OpenEMR users._) Note that the follow script can be used for inspiration: https://sourceforge.net/p/openemr/discussion/202506/thread/a3727d02/
 
 - Contributions to the new and high-impact [React Blueprint project](https://github.com/GoTeamEpsilon/blueprint).
 
