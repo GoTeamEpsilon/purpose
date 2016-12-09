@@ -2,7 +2,7 @@
 
 ## Purpose
 
-We are an open source development group working on interesting projects that serve as educational resources as well as provide value.
+We are a small open source development group working on interesting projects that serve as educational resources as well as provide value.
 
 ## Current Project
 
@@ -14,7 +14,9 @@ We are an open source development group working on interesting projects that ser
 
 - Contributions to the new and high-impact [React Blueprint project](https://github.com/GoTeamEpsilon/blueprint).
 
-## Resources
-
-- (Slack channel invite link)
-- (Document for those interested in joining the team)
+## Team Members
+- [@MatthewVita](https://github.com/matthewvita)
+- [@ShaneChesnutt](https://github.com/shanechesnutt)
+- Team Member 3 _(please reach out if you want to join)_
+- Team Member 4 _(please reach out if you want to join)_
+- Team Member 5 _(please reach out if you want to join)_
