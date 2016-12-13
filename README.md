@@ -17,6 +17,6 @@ We are a small open source development group working on interesting projects tha
 ## Team Members
 - [@MatthewVita](https://github.com/matthewvita)
 - [@ShaneChesnutt](https://github.com/shanechesnutt)
-- Team Member 3 _(please reach out if you want to join)_
-- Team Member 4 _(please reach out if you want to join)_
-- Team Member 5 _(please reach out if you want to join)_
+- [@Viruzx](https://github.com/viruzx)
+- [@LiamDotPro](https://github.com/LiamDotPro)
+- @Top19
