@@ -21,4 +21,4 @@ We are a small open source development group working on interesting projects tha
 - [@ShaneChesnutt](https://github.com/shanechesnutt)
 - [@Viruzx](https://github.com/viruzx)
 - [@LiamDotPro](https://github.com/LiamDotPro)
-- @Top19
+- [@danielehrlich](https://github.com/danielehrlich)
