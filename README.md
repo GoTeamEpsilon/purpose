@@ -2,7 +2,7 @@
 
 ## Purpose
 
-We are a small open source development group working on interesting projects that serve as educational resources as well as provide value.
+We are a small open source development group working on interesting projects that serve as educational resources as well as provide value to existing open source projects.
 
 ## Current Project
 
