@@ -19,6 +19,6 @@ We are a small open source development group working on interesting projects tha
 ## Team Members
 - [@MatthewVita](https://github.com/matthewvita)
 - [@ShaneChesnutt](https://github.com/shanechesnutt)
-- [@Viruzx](https://github.com/viruzx)
 - [@LiamDotPro](https://github.com/LiamDotPro)
 - [@danielehrlich](https://github.com/danielehrlich)
+- [@ericarao](https://github.com/ericarao)
