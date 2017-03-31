@@ -18,3 +18,4 @@ We are a small open source development group working on interesting projects tha
 - [@LiamDotPro](https://github.com/LiamDotPro)
 - [@danielehrlich](https://github.com/danielehrlich)
 - [@ericarao](https://github.com/ericarao)
+- [@Jeffrey-P-McAteer](https://github.com/Jeffrey-P-McAteer)
