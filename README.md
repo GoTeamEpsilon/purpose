@@ -6,15 +6,11 @@ We are a small open source development group working on interesting projects tha
 
 ## Current Project
 
-- [Angular to React/Redux](https://github.com/GoTeamEpsilon/angular-to-react-redux) (_A playground repository that will be filled with educational resources and live code as our dev group (Angular experts) learns React/Redux by contrasting it to Angular concepts._)
+- [OpenEMR AWS Guide](https://github.com/GoTeamEpsilon/OpenEMR-AWS-Guide) A turnkey solution for small facilities and hospitals to run their OpenEMR v5 installation in the AWS cloud.
 
-## Upcoming Projects
+## Completed Projects
 
-- OpenEMR Cloud (_A project that will demonstrate how a small facility or large hospital system can run their OpenEMR installation in the cloud via AWS Elastic Beanstalk, RDS, VPC, and other more essential services. AWS cloud will provide a performant, highly scalable, deeply secure, and cost-effective choice for many global OpenEMR users._) Note that the follow script can be used for inspiration: https://sourceforge.net/p/openemr/discussion/202506/thread/a3727d02/
-
-- Filling in documentation gaps for Socket.io SO wiki (http://stackoverflow.com/documentation/socket.io/topics).
-
-- Contributions to the new and high-impact [React Blueprint project](https://github.com/GoTeamEpsilon/blueprint).
+- [Angular to React/Redux](https://github.com/GoTeamEpsilon/angular-to-react-redux) Angular to React/Redux, a Guide for Angular v1 Experts Looking to Learn React/Redux.
 
 ## Team Members
 - [@MatthewVita](https://github.com/matthewvita)
