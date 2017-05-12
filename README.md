@@ -19,3 +19,4 @@ We are a small open source development group working on interesting projects tha
 - [@danielehrlich](https://github.com/danielehrlich)
 - [@ericarao](https://github.com/ericarao)
 - [@Jeffrey-P-McAteer](https://github.com/Jeffrey-P-McAteer)
+- [@robertogagliotta](https://github.com/robertogagliotta)
