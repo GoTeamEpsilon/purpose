@@ -20,3 +20,4 @@ We are a small open source development group working on interesting projects tha
 - [@ericarao](https://github.com/ericarao)
 - [@Jeffrey-P-McAteer](https://github.com/Jeffrey-P-McAteer)
 - [@shivam99aa](https://github.com/shivam99aa)
+- [@sfurlong](https://github.com/sfurlong)
