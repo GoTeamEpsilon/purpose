@@ -6,7 +6,8 @@ We are a small open source development group working on interesting projects tha
 
 ## Current Project
 
-NULL
+- OpenEMR LightSail
+- cTAKES Web UI
 
 ## Potential Next Projects
 - Testing, documenting, and improving https://github.com/MohawkMEDIC/client-registry for production use.
@@ -28,16 +29,17 @@ NULL
 
 - [@MatthewVita](https://github.com/matthewvita)
 - [@danielehrlich](https://github.com/danielehrlich)
-- [@Jeffrey-P-McAteer](https://github.com/Jeffrey-P-McAteer)
-- [@shivam99aa](https://github.com/shivam99aa)
-- [@sfurlong](https://github.com/sfurlong)
-- [@saurav2104](https://github.com/saurav2104)
+- [@ShaneChesnutt](https://github.com/shanechesnutt)
 - [@jesdynf](https://github.com/jesdynf)
 
 ### Alumnus
 
-_These folks were instrumental in the shipping of the Angular to React/Redux project and are always welcome to work on ongoing projects!_
+Folks that participated in past projects and are always welcome back!
 
-- [@ShaneChesnutt](https://github.com/shanechesnutt)
 - [@ericarao](https://github.com/ericarao)
 - [@LiamDotPro](https://github.com/LiamDotPro)
+- [@Jeffrey-P-McAteer](https://github.com/Jeffrey-P-McAteer)
+- [@shivam99aa](https://github.com/shivam99aa)
+- [@sfurlong](https://github.com/sfurlong)
+- [@saurav2104](https://github.com/saurav2104)
+- [@bponath](https://github.com/bponath)
