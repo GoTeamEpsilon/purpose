@@ -6,14 +6,18 @@ We are a small open source development group working on interesting projects tha
 
 ## Current Project
 
-- OpenEMR LightSail
-- cTAKES Web UI
+- [OpenEMR LightSail](https://github.com/GoTeamEpsilon/OpenEMR-LightSail-ScratchPad) - A lightweight and very inexpensive version of [OpenEMR Cloud](https://github.com/GoTeamEpsilon/OpenEMR-Cloud) for users in low resource locales.
 
-## Potential Next Projects
+- cTAKES Clinical Pipeline - Generic cTAKES solutions for any EMR to implement.
+  - [cTAKES Concept Mention Parser](https://github.com/GoTeamEpsilon/cTAKES-Concept-Mention-Parser)
+  - [cTAKES Friendly Web UI](https://github.com/GoTeamEpsilon/cTAKES-Friendly-Web-UI)
+  - [cTAKES Docker](https://github.com/GoTeamEpsilon/ctakes-docker)
+
+## Potential Future Projects
 - Testing, documenting, and improving https://github.com/MohawkMEDIC/client-registry for production use.
 - Testing out/integrating low cost medical devices for OpenEMR (useful for developing country users).
 - Changing https://github.com/MatthewVita/fake-patient-web/issues/1 to store enhanced NAMCS data, translate it to FHIR resources, and serve it up via a FHIR server.
-- Nice markdown to mediawiki editor for Wikipedia.
+- Nice markdown to Mediawiki editor for Wikipedia.
 
 ## Completed Projects
 
