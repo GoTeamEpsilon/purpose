@@ -12,6 +12,7 @@ We are a small open source development group working on interesting projects tha
   - [cTAKES Concept Mention Parser](https://github.com/GoTeamEpsilon/cTAKES-Concept-Mention-Parser)
   - [cTAKES Friendly Web UI](https://github.com/GoTeamEpsilon/cTAKES-Friendly-Web-UI)
   - [cTAKES Docker](https://github.com/GoTeamEpsilon/ctakes-docker)
+  - [cTAKES Inbound Clinical Text Handler](https://github.com/MatthewVita/cTAKES-Inbound-Clinical-Text-Handler)
 
 ## Potential Future Projects
 - Testing, documenting, and improving https://github.com/MohawkMEDIC/client-registry for production use.
