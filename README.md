@@ -8,11 +8,7 @@ We are a small open source development group working on interesting projects tha
 
 - [OpenEMR LightSail](https://github.com/GoTeamEpsilon/OpenEMR-LightSail-ScratchPad) - A lightweight and very inexpensive version of [OpenEMR Cloud](https://github.com/GoTeamEpsilon/OpenEMR-Cloud) for users in low resource locales.
 
-- cTAKES Clinical Pipeline - Generic cTAKES solutions for any EMR to implement.
-  - [cTAKES Concept Mention Parser](https://github.com/GoTeamEpsilon/cTAKES-Concept-Mention-Parser)
-  - [cTAKES Friendly Web UI](https://github.com/GoTeamEpsilon/cTAKES-Friendly-Web-UI)
-  - [cTAKES Docker](https://github.com/GoTeamEpsilon/ctakes-docker)
-  - [cTAKES Inbound Clinical Text Handler](https://github.com/MatthewVita/cTAKES-Inbound-Clinical-Text-Handler)
+- [cTAKES Intelligent Chart Summarization Solution](https://github.com/GoTeamEpsilon/cTAKES-Intelligent-Chart-Summarization-Solution) - The user-friendly, native EMR NLP solution.
 
 ## Potential Future Projects
 - Testing, documenting, and improving https://github.com/MohawkMEDIC/client-registry for production use.
@@ -36,12 +32,12 @@ We are a small open source development group working on interesting projects tha
 - [@danielehrlich](https://github.com/danielehrlich)
 - [@ShaneChesnutt](https://github.com/shanechesnutt)
 - [@jesdynf](https://github.com/jesdynf)
+- [@ericarao](https://github.com/ericarao)
 
 ### Alumnus
 
 Folks that participated in past projects and are always welcome back!
 
-- [@ericarao](https://github.com/ericarao)
 - [@LiamDotPro](https://github.com/LiamDotPro)
 - [@Jeffrey-P-McAteer](https://github.com/Jeffrey-P-McAteer)
 - [@shivam99aa](https://github.com/shivam99aa)
