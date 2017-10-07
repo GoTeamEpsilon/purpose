@@ -6,8 +6,6 @@ We are a small open source development group working on interesting projects tha
 
 ## Current Project
 
-- [OpenEMR LightSail](https://github.com/GoTeamEpsilon/OpenEMR-LightSail-ScratchPad) - A lightweight and very inexpensive version of [OpenEMR Cloud](https://github.com/GoTeamEpsilon/OpenEMR-Cloud) for users in low resource locales.
-
 - [cTAKES Intelligent Chart Summarization Solution](https://github.com/GoTeamEpsilon/cTAKES-Intelligent-Chart-Summarization-Solution) - The user-friendly, native EMR NLP solution.
 
 ## Potential Future Projects
