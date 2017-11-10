@@ -6,7 +6,9 @@ We are a small open source development group working on interesting projects tha
 
 ## Current Project
 
-- [cTAKES Intelligent Chart Summarization Solution](https://github.com/GoTeamEpsilon/cTAKES-Intelligent-Chart-Summarization-Solution) - The user-friendly, native EMR NLP solution.
+- [cTAKES Intelligent Chart Summarization Solution](https://github.com/GoTeamEpsilon/ctakes-rest-service) - A JSON-based REST service to process unstructured clinical text through a smart natural language processing system.
+
+- [cTAKES Friendly Web UI](https://github.com/GoTeamEpsilon/ctakes-friendly-web-ui) - This is a web viewer to be used with cTAKES Friendly Web UI.
 
 ## Potential Future Projects
 - Testing, documenting, and improving https://github.com/MohawkMEDIC/client-registry for production use.
