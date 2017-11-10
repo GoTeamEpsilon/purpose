@@ -6,7 +6,7 @@ We are a small open source development group working on interesting projects tha
 
 ## Current Project
 
-- [cTAKES Intelligent Chart Summarization Solution](https://github.com/GoTeamEpsilon/ctakes-rest-service) - A JSON-based REST service to process unstructured clinical text through a smart natural language processing system.
+- [cTAKES Rest Service](https://github.com/GoTeamEpsilon/ctakes-rest-service) - A JSON-based REST service to process unstructured clinical text through a smart natural language processing system.
 
 - [cTAKES Friendly Web UI](https://github.com/GoTeamEpsilon/ctakes-friendly-web-ui) - This is a web viewer to be used with cTAKES Friendly Web UI.
 
