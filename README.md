@@ -4,7 +4,9 @@
 
 We are a small open source development group working on interesting projects that serve as educational resources as well as provide value to existing open source projects.
 
-## Current Project
+## Current Project(s)
+
+- [OpenEMR Local Development Docker](https://github.com/GoTeamEpsilon/OpenEMR-Local-Development-Docker) - A development Docker Compose solution for programming OpenEMR with ease.
 
 - [cTAKES Rest Service](https://github.com/GoTeamEpsilon/ctakes-rest-service) - A JSON-based REST service to process unstructured clinical text through a smart natural language processing system.
 
