@@ -35,6 +35,8 @@ We are a small open source development group working on interesting projects tha
 - [@ShaneChesnutt](https://github.com/shanechesnutt)
 - [@jesdynf](https://github.com/jesdynf)
 - [@ericarao](https://github.com/ericarao)
+- [@gandhirajan](https://github.com/gandhirajan)
+- [@Sandeep](https://github.com/sandeepbyathagururajarao)
 
 ### Alumnus
 
