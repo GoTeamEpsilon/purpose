@@ -4,6 +4,8 @@
 
 We are a group of like-minded people who strive to contribute their bit to the open source world. We focus on adding value to interesting and useful projects as well as educational resources.
 
+Diversity and focused work are the keys to our success!
+
 ### __NOTICE__: *We are currently looking for university students that wish to join us in order to gain experience, improve their resume, and do something good in the open source community! Simply post an issue in this repo if you are interested!*
 
 ## Current Project(s)
