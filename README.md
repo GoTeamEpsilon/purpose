@@ -6,8 +6,6 @@ We are a group of like-minded people who strive to contribute their bit to the o
 
 ## Current Project(s)
 
-- [OpenEMR Local Development Docker](https://github.com/GoTeamEpsilon/OpenEMR-Local-Development-Docker) - A development Docker Compose solution for programming OpenEMR with ease.
-
 - [cTAKES Rest Service](https://github.com/GoTeamEpsilon/ctakes-rest-service) - A JSON-based REST service to process unstructured clinical text through a smart natural language processing system.
 
 - [cTAKES Friendly Web UI](https://github.com/GoTeamEpsilon/ctakes-friendly-web-ui) - This is a web viewer to be used with cTAKES Friendly Web UI.
@@ -19,6 +17,8 @@ We are a group of like-minded people who strive to contribute their bit to the o
 - Nice markdown to Mediawiki editor for Wikipedia.
 
 ## Completed Projects
+
+- [OpenEMR Local Development Docker](https://github.com/GoTeamEpsilon/OpenEMR-Local-Development-Docker) - A development Docker Compose solution for programming OpenEMR with ease.
 
 - [OpenEMR Cloud (v1 Stable Solution)](https://github.com/GoTeamEpsilon/OpenEMR-Cloud) A fully automated solution for deploying OpenEMR to AWS. It contains a similar production architecture as the Beta AWS Guide, but without the manual steps. This solution is HIPAA/BAA compliant.
 
