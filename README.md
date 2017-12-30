@@ -1,36 +1,46 @@
-# TeamEpsilon
+# Team Epsilon
 
 ## Purpose
 
-We are a group of like-minded people who strive to contribute their bit to the open source world. We focus on adding value to interesting and useful projects as well as educational resources.
+We are a group of like-minded developers who strive to positively contribute to open source through code, education, and kindness.
 
-Diversity and focused work are the keys to our success!
+# Format
 
-### __NOTICE__: *We are currently looking for university students that wish to join us in order to gain experience, improve their resume, and do something good in the open source community! Simply post an issue in this repo if you are interested!*
+Our team follows these simple guidelines:
 
-## Current Project(s)
+- Work on achievable projects that are useful to others
+- Invite new teammates from diverse backgrounds
+- Guide teammates looking to improve their knowledge
 
-- [cTAKES Rest Service](https://github.com/GoTeamEpsilon/ctakes-rest-service) - A JSON-based REST service to process unstructured clinical text through a smart natural language processing system.
+# Education
 
-- [cTAKES Friendly Web UI](https://github.com/GoTeamEpsilon/ctakes-friendly-web-ui) - This is a web viewer to be used with cTAKES Friendly Web UI.
+If you are a university student looking to supplement your studies with practical open source work, please consider joining us. Having real-life experience, good grades, and a resume filled with open source accomplishments will help you in the long run.
 
-## Potential Future Projects
-- Testing, documenting, and improving https://github.com/MohawkMEDIC/client-registry for production use.
-- Testing out/integrating low cost medical devices for OpenEMR (useful for developing country users).
-- Changing https://github.com/MatthewVita/fake-patient-web/issues/1 to store enhanced NAMCS data, translate it to FHIR resources, and serve it up via a FHIR server.
-- Nice markdown to Mediawiki editor for Wikipedia.
+# Projects
 
-## Completed Projects
+## Current
 
-- [OpenEMR Local Development Docker](https://github.com/GoTeamEpsilon/OpenEMR-Local-Development-Docker) - A development Docker Compose solution for programming OpenEMR with ease.
+- [ctakes-rest-service](https://github.com/GoTeamEpsilon/ctakes-rest-service) - A JSON-based REST service to process unstructured clinical text through a smart natural language processing system.
 
-- [OpenEMR Cloud (v1 Stable Solution)](https://github.com/GoTeamEpsilon/OpenEMR-Cloud) A fully automated solution for deploying OpenEMR to AWS. It contains a similar production architecture as the Beta AWS Guide, but without the manual steps. This solution is HIPAA/BAA compliant.
+- [ctakes-friendly-web-ui](https://github.com/GoTeamEpsilon/ctakes-friendly-web-ui) - This is a web viewer to be used with ctakes-rest-service.
+
+## Completed
+
+- [OpenEMR Local Development Docker](https://github.com/GoTeamEpsilon/OpenEMR-Local-Development-Docker) - Donated to OpenEMR - A development Docker Compose solution for programming OpenEMR with ease.
+
+- [OpenEMR Cloud (v1 Stable Solution)](https://github.com/GoTeamEpsilon/OpenEMR-Cloud) - Donated to OpenEMR - A fully automated solution for deploying OpenEMR to AWS. It contains a similar production architecture as the Beta AWS Guide, but without the manual steps. This solution is HIPAA/BAA eligible. See the press about this on [Open Health News](http://www.openhealthnews.com/content/openemr-launches-easy-install-option-amazons-cloud-services).
 
 - [OpenEMR Cloud (v1 Beta AWS Guide - DEPRECATED)](https://github.com/GoTeamEpsilon/OpenEMR-Cloud) A production grade solution for facilities and hospitals to run their OpenEMR v5 installation in the cloud.
 
-- [Angular to React/Redux](https://github.com/GoTeamEpsilon/angular-to-react-redux) Angular to React/Redux, a Guide for Angular v1 Experts Looking to Learn React/Redux.
+- [Angular to React/Redux](https://github.com/GoTeamEpsilon/angular-to-react-redux) Angular to React/Redux, a Guide for Angular v1 Experts Looking to Learn React/Redux. It is included in [a popular (20K+ stars) React repo](https://github.com/enaqx/awesome-react/commit/e2727497b1cbeac0f64680415ded556552e06a83) and was featured on [Sitepoint Versioning](http://go.sitepoint.com/t/y-2AD8C9C678676323).
 
-## Team Members
+## Future
+
+- Testing, documenting, and improving https://github.com/MohawkMEDIC/client-registry for production use.
+- Changing https://github.com/MatthewVita/fake-patient-web/issues/1 to store enhanced NAMCS data, translate it to FHIR resources, and serve it up via a FHIR server.
+- Developing a Markdown to Mediawiki editor for Wikipedia.
+
+# Team
 
 ### Current
 
