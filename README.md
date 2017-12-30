@@ -4,6 +4,8 @@
 
 We are a group of like-minded developers who strive to positively contribute to open source through code, education, and kindness.
 
+Join us by [introducing yourself here](https://github.com/GoTeamEpsilon/purpose/issues/new).
+
 ## Format
 
 Our team follows these simple guidelines:
@@ -30,9 +32,9 @@ If you are a university student looking to supplement your studies with practica
 
 - [OpenEMR Cloud (v1 Stable Solution)](https://github.com/GoTeamEpsilon/OpenEMR-Cloud) - Donated to OpenEMR - A fully automated solution for deploying OpenEMR to AWS. It contains a similar production architecture as the Beta AWS Guide, but without the manual steps. This solution is HIPAA/BAA eligible. See the press about this on [Open Health News](http://www.openhealthnews.com/content/openemr-launches-easy-install-option-amazons-cloud-services).
 
-- [OpenEMR Cloud (v1 Beta AWS Guide - DEPRECATED)](https://github.com/GoTeamEpsilon/OpenEMR-Cloud) A production grade solution for facilities and hospitals to run their OpenEMR v5 installation in the cloud.
+- [OpenEMR Cloud (v1 Beta AWS Guide - DEPRECATED)](https://github.com/GoTeamEpsilon/OpenEMR-Cloud) - A production grade solution for facilities and hospitals to run their OpenEMR v5 installation in the cloud.
 
-- [Angular to React/Redux](https://github.com/GoTeamEpsilon/angular-to-react-redux) Angular to React/Redux, a Guide for Angular v1 Experts Looking to Learn React/Redux. It is included in [a popular (20K+ stars) React repo](https://github.com/enaqx/awesome-react/commit/e2727497b1cbeac0f64680415ded556552e06a83) and was featured on [Sitepoint Versioning](http://go.sitepoint.com/t/y-2AD8C9C678676323).
+- [Angular to React/Redux](https://github.com/GoTeamEpsilon/angular-to-react-redux) - A Guide for Angular v1 experts looking to learn React/Redux. It is included in [a popular (20K+ stars) React repo](https://github.com/enaqx/awesome-react/commit/e2727497b1cbeac0f64680415ded556552e06a83) and was featured on [Sitepoint Versioning](http://go.sitepoint.com/t/y-2AD8C9C678676323).
 
 ### Future
 
