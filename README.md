@@ -4,7 +4,7 @@
 
 We are a group of like-minded developers who strive to positively contribute to open source through code, education, and kindness.
 
-# Format
+## Format
 
 Our team follows these simple guidelines:
 
@@ -12,19 +12,19 @@ Our team follows these simple guidelines:
 - Invite new teammates from diverse backgrounds
 - Guide teammates looking to improve their knowledge
 
-# Education
+## Education
 
 If you are a university student looking to supplement your studies with practical open source work, please consider joining us. Having real-life experience, good grades, and a resume filled with open source accomplishments will help you in the long run.
 
-# Projects
+## Projects
 
-## Current
+### Current
 
 - [ctakes-rest-service](https://github.com/GoTeamEpsilon/ctakes-rest-service) - A JSON-based REST service to process unstructured clinical text through a smart natural language processing system.
 
 - [ctakes-friendly-web-ui](https://github.com/GoTeamEpsilon/ctakes-friendly-web-ui) - This is a web viewer to be used with ctakes-rest-service.
 
-## Completed
+### Completed
 
 - [OpenEMR Local Development Docker](https://github.com/GoTeamEpsilon/OpenEMR-Local-Development-Docker) - Donated to OpenEMR - A development Docker Compose solution for programming OpenEMR with ease.
 
@@ -34,13 +34,13 @@ If you are a university student looking to supplement your studies with practica
 
 - [Angular to React/Redux](https://github.com/GoTeamEpsilon/angular-to-react-redux) Angular to React/Redux, a Guide for Angular v1 Experts Looking to Learn React/Redux. It is included in [a popular (20K+ stars) React repo](https://github.com/enaqx/awesome-react/commit/e2727497b1cbeac0f64680415ded556552e06a83) and was featured on [Sitepoint Versioning](http://go.sitepoint.com/t/y-2AD8C9C678676323).
 
-## Future
+### Future
 
 - Testing, documenting, and improving https://github.com/MohawkMEDIC/client-registry for production use.
 - Changing https://github.com/MatthewVita/fake-patient-web/issues/1 to store enhanced NAMCS data, translate it to FHIR resources, and serve it up via a FHIR server.
 - Developing a Markdown to Mediawiki editor for Wikipedia.
 
-# Team
+## Team
 
 ### Current
 
