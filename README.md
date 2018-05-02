@@ -38,6 +38,7 @@ If you are a university student looking to supplement your studies with practica
 
 ### Future
 
+- (Goofy, but fun/interesting project) recruit-eeze - Chrome extension to automatically respond to a recruiter solicitation, using a editable, Gist text data source.
 - Testing, documenting, and improving https://github.com/MohawkMEDIC/client-registry for production use.
 - Changing https://github.com/MatthewVita/fake-patient-web/issues/1 to store enhanced NAMCS data, translate it to FHIR resources, and serve it up via a FHIR server.
 - Developing a Markdown to Mediawiki editor for Wikipedia.
