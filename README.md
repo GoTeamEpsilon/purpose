@@ -16,7 +16,7 @@ Our team follows these simple guidelines:
 
 ## Education
 
-If you are a university student looking to supplement your studies with practical open source work, please consider joining us. Having real-life experience, good grades, and a resume filled with open source accomplishments will help you in the long run.
+If you are a university student looking to supplement your studies with practical open source work, please consider joining us. Having real-world experience, good grades, and a resume filled with open source accomplishments will help you in the long run.
 
 ## Projects
 
@@ -24,7 +24,8 @@ If you are a university student looking to supplement your studies with practica
 
 - [ctakes-rest-service](https://github.com/GoTeamEpsilon/ctakes-rest-service) - A JSON-based REST service to process unstructured clinical text through a smart natural language processing system.
 
-- [ctakes-friendly-web-ui](https://github.com/GoTeamEpsilon/ctakes-friendly-web-ui) - This is a web viewer to be used with ctakes-rest-service.
+- [System](https://github.com/GoTeamEpsilon/System) - A free, elegant, and safe desktop framework that equips various kinds of computer users with exceptional software and curated resources.
+
 
 ### Completed
 
@@ -38,7 +39,6 @@ If you are a university student looking to supplement your studies with practica
 
 ### Future
 
-- (Goofy, but fun/interesting project) recruit-eeze - Chrome extension to automatically respond to a recruiter solicitation, using a editable, Gist text data source.
 - Testing, documenting, and improving https://github.com/MohawkMEDIC/client-registry for production use.
 - Changing https://github.com/MatthewVita/fake-patient-web/issues/1 to store enhanced NAMCS data, translate it to FHIR resources, and serve it up via a FHIR server.
 - Developing a Markdown to Mediawiki editor for Wikipedia.
@@ -54,6 +54,7 @@ If you are a university student looking to supplement your studies with practica
 - [@ericarao](https://github.com/ericarao)
 - [@gandhirajan](https://github.com/gandhirajan)
 - [@Sandeep](https://github.com/sandeepbyathagururajarao)
+- [@kofiav](https://github.com/kofiav)
 
 ### Alumnus
 
