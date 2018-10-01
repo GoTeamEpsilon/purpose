@@ -24,7 +24,7 @@ If you are a university student looking to supplement your studies with practica
 
 - [ctakes-rest-service](https://github.com/GoTeamEpsilon/ctakes-rest-service) - A JSON-based REST service to process unstructured clinical text through a smart natural language processing system.
 
-- [System](https://github.com/GoTeamEpsilon/System) - A free, elegant, and safe desktop framework that equips various kinds of computer users with exceptional software and curated resources.
+- [PersonaScripts](https://github.com/GoTeamEpsilon/PersonaScripts) - Persona Scripts are a new way to equip various kinds of computer users with exceptional software and curated resources.
 
 
 ### Completed
