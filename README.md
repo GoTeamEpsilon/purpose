@@ -22,12 +22,14 @@ If you are a university student looking to supplement your studies with practica
 
 ### Current
 
-- [ctakes-rest-service](https://github.com/GoTeamEpsilon/ctakes-rest-service) - A JSON-based REST service to process unstructured clinical text through a smart natural language processing system.
+- [openemr-rest-api](https://github.com/GoTeamEpsilon/openemr-rest-api) - An easy-to-use JSON-based REST API for OpenEMR's most common functions.
 
 - [PersonaScripts](https://github.com/GoTeamEpsilon/PersonaScripts) - Persona Scripts are a new way to equip various kinds of computer users with exceptional software and curated resources.
 
 
 ### Completed
+
+- [ctakes-rest-service](https://github.com/GoTeamEpsilon/ctakes-rest-service) - A JSON-based REST service to process unstructured clinical text through a smart natural language processing system.
 
 - [OpenEMR Local Development Docker](https://github.com/GoTeamEpsilon/OpenEMR-Local-Development-Docker) - Donated to OpenEMR - A development Docker Compose solution for programming OpenEMR with ease.
 
