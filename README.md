@@ -1,4 +1,4 @@
-# Team Epsilon
+![img](./epsilon.png)
 
 ## Purpose
 
