@@ -22,8 +22,7 @@ If you are a university student looking to supplement your studies with practica
 
 ### Current
 
-- [PersonaScripts](https://github.com/GoTeamEpsilon/PersonaScripts) - Persona Scripts are a new way to equip various kinds of computer users with exceptional software and curated resources.
-
+- [desktop.yml](https://github.com/GoTeamEpsilon/desktop.yml) - A solution for installing curated, persona-based software suites on Linux PCs.
 
 ### Completed
 
